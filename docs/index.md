@@ -14,4 +14,7 @@ Verfügung gestellt.
 
 # Musterlösung
 
+[Jupyter Notebook](Musterloesung_Histogramm.ipynb)
+mit der Musterlösung.
+
 # Fazit / Reflexion
