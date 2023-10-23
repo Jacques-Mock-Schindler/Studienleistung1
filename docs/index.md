@@ -6,6 +6,12 @@
 
 # Unterlagen
 
+Die Lehrperson kann mit einer Online-Umfrage die Körpergrössen in der
+aktuellen Klasse erheben. Für die Musterlösung wird hier eine
+[Liste mit Körpergrössen](Koerpergroessen.CSV)
+aus einer Klasse eines Zürcherischen Gymnasiums zur
+Verfügung gestellt.
+
 # Musterlösung
 
 # Fazit / Reflexion
