@@ -7,7 +7,8 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
    Die Schülerinnen und Schüler (SuS) haben grundlegende Kenntnisse in Programmierung mit Python. Sie können Bedingungen und `for`-Schleifen anwenden und sie kennen PyTamaro.
    *Mathematik*
    SuS kennen Histogramme aus Medien und verschiedenen Schulfächern.
-2. Zielsetzungen und was man damit bewirken will.
+2. Zielsetzungen
+
    Die SuS sollen sich des Einflusses von Darstellungen auf die
    Wahrnehmung von Information bewusst werden.
 
