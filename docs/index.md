@@ -1,3 +1,7 @@
+# Histogramm
+
+Studienleistung 1 Fachdidaktik 1 im Programm GymInf
+
 1. Vorwissen aus Informatik und Mathematik
    *Informatik*
    Die Schülerinnen und Schüler (SuS) haben grundlegende Kenntnisse in Programmierung mit Python. Sie können Bedingungen und `for`-Schleifen anwenden und sie kennen PyTamaro.
