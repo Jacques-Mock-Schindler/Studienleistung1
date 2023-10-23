@@ -8,7 +8,23 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
    *Mathematik*
    SuS kennen Histogramme aus Medien und verschiedenen Schulfächern.
 2. Zielsetzungen und was man damit bewirken will.
-   Die SuS sollen sich des Einflusses von Darstellungen auf die Wahrnehmung von Information bewusst werden.
+   Die SuS sollen sich des Einflusses von Darstellungen auf die
+   Wahrnehmung von Information bewusst werden.
+
+   Als Vorbereitung auf die Aufgabenstellung sollen die SuS ihre
+   Kenntnisse im Umgang mit Listen sowie Bedingungen vertiefen.
+   Die SuS sollen im Minimum Listen aus Literalen erstellen können.
+   Talentierten SuS kann darüber hinaus aufgezeigt werden, wie eine
+   Liste durch einen Import der verfügbaren Daten aus einem CSV-File
+   erstellt werden kann.
+   Bezüglich Bedingungen sollen die SuS in der Lage sein, mehrere
+   Bedingungen miteinander zu verknüpfen.
+
+   Für das Hauptziel dieser Unterrichtssequenz sollen die SuS
+   Entscheiden können, ob für die Darstellung der zur Verfügung
+   stehenden Daten absolute oder relative Skalen sinnvoll sind.
+   Ausserdem sollen sie bewusste Entscheide über die Gruppierung der
+   Daten fällen können.
 3. Rätsel, Aufgaben, Beispiele, Projekte, Lernaufgaben.
    Die Körpergrössen der SuS sollen in einem Histogramm dargestellt werden. Allenfalls sollen zusätzliche Informationen, wie Alter und Geschlecht in die Darstellung mit einbezogen werden.
 4. Arbeitsblätter für die Klasse mit verständlichen Aufträgen (Rätsel, Aufgaben).
