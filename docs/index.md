@@ -29,7 +29,24 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
    Ausserdem sollen sie bewusste Entscheide über die Gruppierung der
    Daten fällen können.
 3. Rätsel, Aufgaben, Beispiele, Projekte, Lernaufgaben.
-   Die Körpergrössen der SuS sollen in einem Histogramm dargestellt werden. Allenfalls sollen zusätzliche Informationen, wie Alter und Geschlecht in die Darstellung mit einbezogen werden.
+   
+   Die Körpergrössen der SuS sollen in einem Histogramm dargestellt
+   werden. Dazu werden die Körpergrössen und allenfalls zusätzliche
+   Informationen wie Alter und Geschlecht mit einem Umfragetool wie
+   Microsoft Forms oder Google Formular erhoben. Die so erhobenen Daten
+   werden den SuS in Form eines CSV-Files zur Verfügung gestellt.
+   
+   Diese Daten sind als Histogramm darzustellen.
+
+   Die Erstellung des Histogramms zerfällt in Teilaufgaben.
+
+   1. Übertragen der Köpergrössen in eine Liste.
+   2. Einteilung der Körpergrössen in Klassen.
+   3. Zählen der Elemente pro Klasse.
+   4. Zeichnen der einzelnen Balken.
+   5. Zusammenfügen der Balken in eine Gesamtdarstellung.
+
+
 4. Arbeitsblätter für die Klasse mit verständlichen Aufträgen (Rätsel, Aufgaben).
    Die Aufgabe soll in einem Jupyter-Notebook dargestellt werden.
 5. Lösungen, die auch für die Klasse verständlich sind und die den Lösungsweg beschreiben und allfällige Erklärungen enthalten.
