@@ -25,9 +25,10 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
 
    Für das Hauptziel dieser Unterrichtssequenz sollen die SuS
    Entscheiden können, ob für die Darstellung der zur Verfügung
-   stehenden Daten absolute oder relative Skalen sinnvoll sind.
-   Ausserdem sollen sie bewusste Entscheide über die Gruppierung der
-   Daten fällen können.
+   stehenden Daten absolute oder relative Zahlen sinnvoll sind.
+   Ausserdem sollen sie bewusste Entscheide über die Einteilung von
+   Daten in Klassen fällen können.
+   
 3. Rätsel, Aufgaben, Beispiele, Projekte, Lernaufgaben.
    Die Körpergrössen der SuS sollen in einem Histogramm dargestellt werden. Allenfalls sollen zusätzliche Informationen, wie Alter und Geschlecht in die Darstellung mit einbezogen werden.
 4. Arbeitsblätter für die Klasse mit verständlichen Aufträgen (Rätsel, Aufgaben).
