@@ -1,5 +1,7 @@
 # Histogramm
 
+Dieser Text wir in einem Branch "Begleittext" verfasst.
+
 Studienleistung 1 Fachdidaktik 1 im Programm GymInf
 
 1. Vorwissen aus Informatik und Mathematik
