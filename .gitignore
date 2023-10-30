@@ -1,0 +1,8 @@
+# alles ignorieren
+*
+# ausser...
+!*.md
+!*.ipynb
+!*.csv
+!*.CSV
+!.gitignore

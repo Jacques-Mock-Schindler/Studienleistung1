@@ -34,7 +34,9 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
    werden. Dazu werden die Körpergrössen und allenfalls zusätzliche
    Informationen wie Alter und Geschlecht mit einem Umfragetool wie
    Microsoft Forms oder Google Formular erhoben. Die so erhobenen Daten
-   werden den SuS in Form eines CSV-Files zur Verfügung gestellt.
+   werden den SuS in Form eines CSV-Files zur Verfügung gestellt. Für
+   die Musterlösung steht ein solches File aus einer willkürlich
+   gewählten Klasse zur Verfügung.
    
    Diese Daten sind als Histogramm darzustellen.
 
