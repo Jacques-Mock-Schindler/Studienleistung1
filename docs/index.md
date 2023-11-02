@@ -20,7 +20,7 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
    Die SuS sollen im Minimum Listen aus Literalen erstellen können.
    Talentierten SuS kann darüber hinaus aufgezeigt werden, wie eine
    Liste durch einen Import der verfügbaren Daten aus einem CSV-File
-   erstellt werden kann.<br>
+   erstellt werden kann.   
    Bezüglich Bedingungen sollen die SuS in der Lage sein, mehrere
    Bedingungen miteinander zu verknüpfen.
 
