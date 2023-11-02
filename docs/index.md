@@ -30,6 +30,7 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
    Daten in Klassen fällen können.
    
 3. Rätsel, Aufgaben, Beispiele, Projekte, Lernaufgaben.
+
    
    Die Körpergrössen der SuS sollen in einem Histogramm dargestellt
    werden. Dazu werden die Körpergrössen und allenfalls zusätzliche
@@ -54,6 +55,7 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf
    Die Aufgabe soll in einem Jupyter-Notebook dargestellt werden.
 5. Lösungen, die auch für die Klasse verständlich sind und die den Lösungsweg beschreiben und allfällige Erklärungen enthalten.
    Das Jupyter-Notebook wird in einer leeren und einer ausgefüllten Variante zur Verfügung gestellt.
+
 6. Fazit: was man glaubt, erreicht zu haben.
    Die SuS sollten gelernt haben, wie Daten für die Darstellung aufbereitet werden müssen. Ausserdem sollten Sie die Möglichkeiten und Grenzen von Visualisierungen erfahren haben.
 
