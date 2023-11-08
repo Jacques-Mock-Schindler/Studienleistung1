@@ -1,8 +1,6 @@
 # Histogramm
 
-Dieser Text wird in einem Branch "Begleittext" verfasst.
-
-Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
+*Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023*
 
 1. Vorwissen aus Informatik und Mathematik
    
@@ -61,7 +59,7 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
    Aufgaben).
 
    Die Aufgabe soll in einem Jupyter-Notebook dargestellt werden.
-   
+
 5. Lösungen, die auch für die Klasse verständlich sind und die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
 
