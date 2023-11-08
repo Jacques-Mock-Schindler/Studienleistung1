@@ -1,4 +1,4 @@
-# Histogramm
+# Histogramm 
 
 *Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023*
 
