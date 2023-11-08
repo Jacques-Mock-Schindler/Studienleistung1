@@ -60,7 +60,10 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
 5. Lösungen, die auch für die Klasse verständlich sind und die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
 
-   Das Jupyter-Notebook wird in einer leeren und einer ausgefüllten Variante zur Verfügung gestellt.
+   Das Jupyter-Notebook wird einer ausgefüllten
+   [Variante](Musterloesung_Histogramm.ipynb)
+   mit Erklärungen zur Verfügung gestellt.
+
 
 6. Fazit: was man glaubt, erreicht zu haben.
    Die SuS sollten gelernt haben, wie Daten für die Darstellung aufbereitet werden müssen. Ausserdem sollten Sie die Möglichkeiten und Grenzen von Visualisierungen erfahren haben.
