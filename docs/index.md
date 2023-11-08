@@ -7,9 +7,14 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
 1. Vorwissen aus Informatik und Mathematik
    
    - *Informatik*
-     Die Schülerinnen und Schüler (SuS) haben grundlegende Kenntnisse in Programmierung mit Python. Sie können Bedingungen und `for`-Schleifen anwenden und sie kennen PyTamaro.
+
+     Die Schülerinnen und Schüler (SuS) haben grundlegende Kenntnisse in
+     Programmierung mit Python. Sie können Bedingungen und
+     `for`-Schleifen anwenden und sie kennen PyTamaro.
    - *Mathematik*
+
      SuS kennen Histogramme aus Medien und verschiedenen Schulfächern.
+
 2. Zielsetzungen
 
    Die SuS sollen sich des Einflusses von Darstellungen auf die
@@ -32,7 +37,6 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
    
 3. Rätsel, Aufgaben, Beispiele, Projekte, Lernaufgaben.
 
-   
    Die Körpergrössen der SuS sollen in einem Histogramm dargestellt
    werden. Dazu werden die Körpergrössen und allenfalls zusätzliche
    Informationen wie Alter und Geschlecht mit einem Umfragetool wie
@@ -57,6 +61,7 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
    Aufgaben).
 
    Die Aufgabe soll in einem Jupyter-Notebook dargestellt werden.
+   
 5. Lösungen, die auch für die Klasse verständlich sind und die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
 
@@ -66,5 +71,11 @@ Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023
 
 
 6. Fazit: was man glaubt, erreicht zu haben.
-   Die SuS sollten gelernt haben, wie Daten für die Darstellung aufbereitet werden müssen. Ausserdem sollten Sie die Möglichkeiten und Grenzen von Visualisierungen erfahren haben.
 
+   Die SuS sollten beim Durcharbeiten des Jupyter Notebooks
+   
+   - Sicherheit im Umgang mit Listen gewonnen haben;
+   - festgestellt haben, dass Daten vor der Auswertung aufbereitet
+     werden müssen sowie
+   - realisiert haben, dass die Skalierung von Grafiken deren
+     Aussagekraft beeinflussen.
