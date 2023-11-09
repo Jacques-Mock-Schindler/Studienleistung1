@@ -63,7 +63,7 @@
 5. Lösungen, die auch für die Klasse verständlich sind und die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
 
-   Das Jupyter-Notebook wird einer ausgefüllten
+   Das Jupyter-Notebook wird in einer ausgefüllten
    [Variante](Musterloesung_Histogramm.ipynb)
    mit Erklärungen zur Verfügung gestellt.
 
@@ -74,6 +74,6 @@
    
    - Sicherheit im Umgang mit Listen gewonnen haben;
    - festgestellt haben, dass Daten vor der Auswertung aufbereitet
-     werden müssen sowie
+     werden müssen sowie;
    - realisiert haben, dass die Skalierung von Grafiken deren
      Aussagekraft beeinflussen.
