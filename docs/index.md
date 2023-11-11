@@ -58,7 +58,7 @@
 4. Arbeitsblätter für die Klasse mit verständlichen Aufträgen (Rätsel,
    Aufgaben).
 
-   Die Aufgabe soll in einem Jupyter-Notebook dargestellt werden.
+   [Die Aufgabe wird in einem Jupyter-Notebook zur Verfügung gestellt.](Arbeitsblatt_Histogramm.ipynb)
 
 5. Lösungen, die auch für die Klasse verständlich sind und die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
