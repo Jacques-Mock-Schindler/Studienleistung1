@@ -7,3 +7,5 @@
 !*.CSV
 !.gitignore
 !requirements.txt
+!*.yml
+!*.html

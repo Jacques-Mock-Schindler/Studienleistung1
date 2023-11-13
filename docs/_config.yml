@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+
+title: Studienleistung 1 Fachdidaktik 1 GymInf HS23
+description: ' ' 
+
+includes_dir     : ./_includes
+layouts_dir:  ./_layouts
+plugins:
+  - jemoji
