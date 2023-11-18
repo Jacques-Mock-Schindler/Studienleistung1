@@ -3,16 +3,29 @@
 *Studienleistung 1 Fachdidaktik 1 im Programm GymInf im Herbstsemester 2023*
 
 1. Vorwissen aus Informatik und Mathematik
-   
-   - *Informatik*
 
-     Die Schülerinnen und Schüler (SuS) haben grundlegende Kenntnisse in
-     Programmierung mit Python. Sie können Bedingungen und
-     `for`-Schleifen anwenden und sie kennen PyTamaro.
-   - *Mathematik*
+   Diese Unterrichtseinheit ist konzipiert für Schülerinnen und Schüler
+   (SuS) eines Zürcherischen Kurzgymnasiums im ersten Jahr. Für den
+   Unterricht steht eine Doppelstunde pro Woche zur Verfügung.
 
-     SuS kennen Histogramme aus Medien und verschiedenen Schulfächern.
+   Wenn die SuS mit dieser Unterrichtseinheit beginnen, kennen sie die
+   Grundfunktionen von
+   [PyTamaro](https://pytamaro.si.usi.ch/).
+   In inhaltlicher Hinsicht haben die SuS eine Einführung in Variabeln,
+   Funktionen und `for`-Schleifen erhalten. Wünschenswert ist ausserdem, dass
+   die SuS bereits vor dem Beginn dieser Unterrichtseinheit einmal mit
+   Listen gearbeitet haben.
 
+   Aus der Mathematik sind keine besonderen Vorkenntnisse erforderlich.
+
+   Es ist hilfreich, aber nicht zwingend, dass die SuS wissen, was ein
+   Histogramm ist.
+
+   Falls die SuS in einem anderen Zusammenhang bereits eine Einführung
+   in Listen erhalten haben, kann die Einheit in zwei Doppelstunden
+   durchgearbeitet werden. Falls die Listen mit dieser Einheit
+   eingeführt werden, muss eine weitere Doppelstunde einkalkuliert werden.
+  
 2. Zielsetzungen
 
    Die SuS sollen sich des Einflusses von Darstellungen auf die
