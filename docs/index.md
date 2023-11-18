@@ -81,7 +81,7 @@
    mit Erklärungen zur Verfügung gestellt.
 
 
-6. Fazit: was man glaubt, erreicht zu haben.
+6. Fazit
 
    Die SuS sollten beim Durcharbeiten des Jupyter Notebooks
    
