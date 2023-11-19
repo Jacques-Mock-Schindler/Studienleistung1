@@ -61,19 +61,19 @@
    Die Erstellung des Histogramms zerfällt in Teilaufgaben.
 
    1. Bereinigung der Daten
-   2. Übertragen der Köpergrössen in eine Liste.
-   3. Einteilung der Körpergrössen in Klassen.
-   4. Zählen der Elemente pro Klasse.
-   5. Zeichnen der einzelnen Balken.
-   6. Zusammenfügen der Balken in eine Gesamtdarstellung.
+   2. Übertragen der Köpergrössen in eine Liste
+   3. Einteilung der Körpergrössen in Klassen
+   4. Zählen der Elemente pro Klasse
+   5. Zeichnen der einzelnen Balken
+   6. Zusammenfügen der Balken in eine Gesamtdarstellung
 
 
 4. Arbeitsblätter für die Klasse mit verständlichen Aufträgen (Rätsel,
    Aufgaben).
 
-   [Die Aufgabe wird in einem Jupyter-Notebook zur Verfügung gestellt.](https://nbviewer.org/github/Jacques-Mock-Schindler/Studienleistung1/blob/master/docs/Arbeitsblatt_Histogramm.ipynb)
+   [Die Aufgabe wird in einem Jupyter Notebook zur Verfügung gestellt.](https://nbviewer.org/github/Jacques-Mock-Schindler/Studienleistung1/blob/master/docs/Arbeitsblatt_Histogramm.ipynb)
 
-5. Lösungen, die auch für die Klasse verständlich sind und die den
+5. Lösungen, die auch für die Klasse verständlich sind, die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
 
    Das Jupyter-Notebook wird in einer ausgefüllten
