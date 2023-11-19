@@ -87,6 +87,6 @@
    
    - Sicherheit im Umgang mit Listen gewonnen haben;
    - festgestellt haben, dass Daten vor der Auswertung aufbereitet
-     werden müssen sowie;
+     werden müssen sowie
    - realisiert haben, dass die Skalierung von Grafiken deren
      Aussagekraft beeinflussen.
