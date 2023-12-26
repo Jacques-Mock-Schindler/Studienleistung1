@@ -9,3 +9,6 @@
 !requirements.txt
 !*.yml
 !*.html
+!*.png
+!*.svg
+!visualisierung/*
