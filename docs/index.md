@@ -40,13 +40,13 @@
    Bezüglich Bedingungen sollen die SuS in der Lage sein, mehrere
    Bedingungen miteinander zu verknüpfen.
 
-   Um das Hauptziel dieser Unterrichtssequenz - der Einfluss der
+   Um das Hauptziel dieser Unterrichtssequenz - den Einfluss der
    Darstellung - zu erreichen, sollen die SuS in einer ersten Phase ein
    Histogramm mit den absoluten Zahlen erstellen.
-   In einer zweiten Phase sollen Sie dann das Histogramm auf der Basis
+   In einer zweiten Phase sollen sie dann das Histogramm auf der Basis
    der relativen Häufigkeit darstellen.
    Der Wechsel der Zahlengrundlage soll eine Diskussion der Vor- und
-   Nachteile der beiden Grundlagen ermöglichen.
+   Nachteile der beiden Grundlagen der Darstellung ermöglichen.
    Ausserdem sollen sie bewusste Entscheide über die Einteilung von
    Daten in Klassen fällen können.
    
