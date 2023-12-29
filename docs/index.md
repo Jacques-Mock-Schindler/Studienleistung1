@@ -14,7 +14,11 @@
    In inhaltlicher Hinsicht haben die SuS eine Einführung in Variabeln,
    Funktionen und `for`-Schleifen erhalten. Wünschenswert ist ausserdem, dass
    die SuS bereits vor dem Beginn dieser Unterrichtseinheit einmal mit
-   Listen gearbeitet haben.
+   Listen gearbeitet haben.  
+   *Für die Auseinandersetzung mit der Datenstruktur der Liste in Python
+   wird im Arbeitsblatt ein Exkurs mit einem Verweis auf das Lehrmittel
+   eingefügt. Eine Vertiefte Auseinandersetzung mit dem Thema würde eine
+   eigene Unterrichtssequenz erfordern.*
 
    Aus der Mathematik sind keine besonderen Vorkenntnisse erforderlich.
 
