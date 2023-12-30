@@ -28,7 +28,10 @@
    Falls die SuS in einem anderen Zusammenhang bereits eine Einführung
    in Listen erhalten haben, kann die Einheit in zwei Doppelstunden
    durchgearbeitet werden. Falls die Listen mit dieser Einheit
-   eingeführt werden, muss eine weitere Doppelstunde einkalkuliert werden.
+   eingeführt werden, muss eine weitere Doppelstunde einkalkuliert
+   werden. Falls mehr als eine rein programmiertechnische
+   Auseinandersetzung mit Listen geplant ist, muss mindestens eine
+   weitere Doppelstunde eingeplant werden.
   
 2. Zielsetzungen
 
