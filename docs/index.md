@@ -98,3 +98,10 @@
      werden müssen sowie
    - realisiert haben, dass die Skalierung von Grafiken deren
      Aussagekraft beeinflussen.
+
+   Python abstrahiert von der Grundlage seiner Datenstruktur Liste als
+   dynamisches Array. Damit ist es grundsätzlich möglich, sich mit
+   Fragen der Visualisierung von Daten in Histogrammen
+   auseinanderzusetzen, ohne dass man sich mit Fragen der Datenablage
+   beschäftigt. Ob dies unter kurrikularen Gesichtspunkten sinnvoll ist,
+   muss an dieser Stelle offen gelassen werden.
