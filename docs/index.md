@@ -55,7 +55,7 @@
    Der Wechsel der Zahlengrundlage soll eine Diskussion der Vor- und
    Nachteile der beiden Grundlagen der Darstellung ermöglichen.
    Ausserdem sollen sie bewusste Entscheide über die Einteilung von
-   Daten in Klassen fällen können.
+   Daten in Intervalle fällen können.
    
 3. Rätsel, Aufgaben, Beispiele, Projekte, Lernaufgaben.
 
@@ -73,8 +73,8 @@
 
    1. Bereinigung der Daten
    2. Übertragen der Köpergrössen in eine Liste
-   3. Einteilung der Körpergrössen in Klassen
-   4. Zählen der Elemente pro Klasse
+   3. Einteilung der Körpergrössen in Intervalle
+   4. Zählen der Elemente pro Intervall
    5. Zeichnen der einzelnen Balken
    6. Zusammenfügen der Balken in eine Gesamtdarstellung
 
