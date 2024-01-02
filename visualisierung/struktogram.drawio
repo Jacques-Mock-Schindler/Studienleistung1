@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T09:48:25.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="lSTqAAdu2qSxQLT4XPi7" type="google">
-  <diagram id="Zqw8zEdBAcL5mmTzYU6F" name="Page-1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-2" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Für jedes Element &#39;number&#39; in der Liste &#39;numbers&#39;:&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="140" y="223" width="530" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="283" width="480" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-5" value="nein" style="html=1;dashed=0;whiteSpace=wrap;verticalAlign=bottom;align=left;spacingLeft=6;" vertex="1" parent="1">
-          <mxGeometry x="190" y="283" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-6" value="ja" style="html=1;dashed=0;whiteSpace=wrap;align=right;verticalAlign=bottom;spacingRight=6;" vertex="1" parent="1">
-          <mxGeometry x="430" y="283" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-11" value="Ist das Element &#39;number&#39; ein int?" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="190" y="283" width="480" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-14" value="Schreibe &#39;unzulässiger Input&#39; ans Ende der Liste &#39;results&#39;." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="343" width="240" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-16" value="ja" style="html=1;dashed=0;whiteSpace=wrap;verticalAlign=bottom;align=left;spacingLeft=6;" vertex="1" parent="1">
-          <mxGeometry x="430" y="343" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-17" value="nein" style="html=1;dashed=0;whiteSpace=wrap;verticalAlign=bottom;spacingBottom=1;align=right;spacingRight=6;" vertex="1" parent="1">
-          <mxGeometry x="550" y="343" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-15" value="Ist das Element &#39;number&#39;&lt;br&gt;durch 2 teilbar?" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="430" y="343" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-18" value="Schreibe das Quadrat des Elements &#39;number&#39; ans Ende der Liste &#39;results&#39;." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="430" y="403" width="120" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-19" value="Schreibe das die dritte Potenz des Elements &#39;number&#39; ans Ende der Liste &#39;results&#39;." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="403" width="120" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-20" value="Gib die Liste &#39;results&#39; zurück." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="663" width="530" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AAsGvHbAcukMt1LZE0Sj-21" value="Weise der Variabeln &#39;numbers&#39; eine Liste mit ganzen Zahlen zu." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="173" width="530" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram id="Zqw8zEdBAcL5mmTzYU6F" name="Page-1">
+        <mxGraphModel dx="763" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-2" value="&#10;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Für jedes Element 'number' in der Liste 'numbers':&lt;/span&gt;&#10;&#10;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="223" width="530" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="283" width="480" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-5" value="nein" style="html=1;dashed=0;whiteSpace=wrap;verticalAlign=bottom;align=left;spacingLeft=6;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="283" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-6" value="ja" style="html=1;dashed=0;whiteSpace=wrap;align=right;verticalAlign=bottom;spacingRight=6;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="283" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-11" value="Ist das Element 'number' ein int?" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="283" width="480" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-14" value="Schreibe 'unzulässiger Input' ans Ende der Liste 'results'." style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="343" width="240" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-16" value="ja" style="html=1;dashed=0;whiteSpace=wrap;verticalAlign=bottom;align=left;spacingLeft=6;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="343" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-17" value="nein" style="html=1;dashed=0;whiteSpace=wrap;verticalAlign=bottom;spacingBottom=1;align=right;spacingRight=6;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="343" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-15" value="Ist das Element 'number'&lt;br&gt;durch 2 teilbar?" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="343" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-18" value="Schreibe das Quadrat des Elements 'number' ans Ende der Liste 'results'." style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="403" width="120" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-19" value="Schreibe das die dritte Potenz des Elements 'number' ans Ende der Liste 'results'." style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="403" width="120" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-20" value="Gib die Liste 'results' zurück." style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="663" width="530" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="AAsGvHbAcukMt1LZE0Sj-21" value="Weise der Datenstruktur 'numbers' eine Liste mit ganzen Zahlen zu." style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="173" width="530" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
