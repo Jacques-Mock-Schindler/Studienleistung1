@@ -82,13 +82,13 @@
 4. Arbeitsblätter für die Klasse mit verständlichen Aufträgen (Rätsel,
    Aufgaben).
 
-   [Die Aufgabe wird in einem Jupyter Notebook zur Verfügung gestellt.](https://nbviewer.org/github/Jacques-Mock-Schindler/Studienleistung1/blob/master/docs/Arbeitsblatt_Histogramm.ipynb)
+   [Die Aufgabe wird in einem Jupyter Notebook zur Verfügung gestellt](https://colab.research.google.com/github/Jacques-Mock-Schindler/Studienleistung1/blob/master/docs/Arbeitsblatt_Histogramm.ipynb).
 
 5. Lösungen, die auch für die Klasse verständlich sind, die den
    Lösungsweg beschreiben und allfällige Erklärungen enthalten.
 
-   Das Jupyter-Notebook wird in einer ausgefüllten
-   [Variante](https://nbviewer.org/github/Jacques-Mock-Schindler/Studienleistung1/blob/master/docs/Musterloesung_Histogramm.ipynb)
+   Das Jupyter-Notebook wird in einer 
+   [ausgefüllten Variante](https://colab.research.google.com/github/Jacques-Mock-Schindler/Studienleistung1/blob/master/docs/Musterloesung_Histogramm.ipynb)
    mit Erklärungen zur Verfügung gestellt.
 
 
