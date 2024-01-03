@@ -1,14 +1,3 @@
-# alles ignorieren
-*
-# ausser...
-!*.md
-!*.ipynb
-!*.csv
-!*.CSV
-!.gitignore
-!requirements.txt
-!*.yml
-!*.html
-!*.png
-!*.svg
-!visualisierung/*
+*.json
+*.pdf
+*-checkpoint.ipynb
