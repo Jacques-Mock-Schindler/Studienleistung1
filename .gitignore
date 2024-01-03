@@ -1,2 +1,3 @@
 *.json
 *.pdf
+*-checkpoint.ipynb
